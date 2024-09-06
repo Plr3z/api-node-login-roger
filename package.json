@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.19.1",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.15",
+    "package.json": "^2.0.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "prisma": "^5.19.1"
+  }
+}
