@@ -3,10 +3,10 @@ import bcrypt from 'bcrypt';
 import nodemailer from 'nodemailer';
 
 const transporter = nodemailer.createTransport({
-  service: 'Gmail', // Pode ser o serviço que você preferir
+  service: 'Gmail', 
   auth: {
-    user: 'plrezende02@gmail.com', // Seu e-mail
-    pass: 'bzqr klmt hzfw uqdv'  // Sua senha de e-mail ou senha de app
+    user: '', //email
+    pass: 'bzqr klmt hzfw uqdv' //senha
   }
 });
 
